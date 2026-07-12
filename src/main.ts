@@ -160,7 +160,7 @@ function buildShell(root: HTMLElement, appData: AppData): void {
     'footer',
     { class: 'site-footer', role: 'contentinfo' },
     `<div class="footer-inner">
-      <div>Built by <a href="https://benrichardson.dev/">benrichardson.dev</a> · <a href="https://hub.benrichardson.dev" target="_blank" rel="noopener">more tools &amp; sites</a></div>
+      <div>Built by <a href="https://benrichardson.dev/">benrichardson.dev</a> · <a href="https://sites.benrichardson.dev" target="_blank" rel="noopener">more tools &amp; sites</a></div>
       <div class="footer-sources">Data: DFAT Australian Treaties Database, DFAT overseas missions list, and DFAT trade-agreement pages. Not an official DFAT product; verify treaty status against the <a href="https://www.dfat.gov.au/international-relations/treaties/australian-treaties-database" target="_blank" rel="noopener">official database</a> before relying on it. Data refreshed ${gen}.</div>
     </div>`,
   );
