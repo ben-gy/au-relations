@@ -1,0 +1,50 @@
+{
+  "note": "Curated memberships of selective international bodies Australia belongs to. Near-universal bodies (UN, WTO, IMF, World Bank, WHO, Interpol) are listed without member rosters. Member names use ATD country naming. Reviewed 2026-07.",
+  "organisations": [
+    {
+      "code": "G20", "name": "Group of Twenty", "kind": "economic",
+      "members": ["Argentina", "Brazil", "Canada", "China", "France", "Germany", "India", "Indonesia", "Italy", "Japan", "Mexico", "Russia", "Saudi Arabia", "South Africa", "Korea, Republic of", "Türkiye", "United Kingdom", "United States of America"]
+    },
+    {
+      "code": "OECD", "name": "Organisation for Economic Co-operation and Development", "kind": "economic",
+      "members": ["Austria", "Belgium", "Canada", "Chile", "Colombia", "Costa Rica", "Czech Republic", "Denmark", "Estonia", "Finland", "France", "Germany", "Greece", "Hungary", "Iceland", "Ireland", "Israel", "Italy", "Japan", "Korea, Republic of", "Latvia", "Lithuania", "Luxembourg", "Mexico", "Netherlands", "New Zealand", "Norway", "Poland", "Portugal", "Slovakia", "Slovenia", "Spain", "Sweden", "Switzerland", "Türkiye", "United Kingdom", "United States of America"]
+    },
+    {
+      "code": "APEC", "name": "Asia-Pacific Economic Cooperation", "kind": "economic",
+      "members": ["Brunei Darussalam", "Canada", "Chile", "China", "Hong Kong", "Indonesia", "Japan", "Korea, Republic of", "Malaysia", "Mexico", "New Zealand", "Papua New Guinea", "Peru", "Philippines", "Russia", "Singapore", "Taiwan", "Thailand", "United States of America", "Vietnam"]
+    },
+    {
+      "code": "Commonwealth", "name": "Commonwealth of Nations", "kind": "political",
+      "members": ["Antigua and Barbuda", "Bahamas", "Bangladesh", "Barbados", "Belize", "Botswana", "Brunei Darussalam", "Cameroon", "Canada", "Cyprus", "Dominica", "Eswatini", "Fiji", "Gabon", "Gambia", "Ghana", "Grenada", "Guyana", "India", "Jamaica", "Kenya", "Kiribati", "Lesotho", "Malawi", "Malaysia", "Maldives", "Malta", "Mauritius", "Mozambique", "Namibia", "Nauru", "New Zealand", "Nigeria", "Pakistan", "Papua New Guinea", "Rwanda", "Saint Kitts and Nevis", "Saint Lucia", "Saint Vincent and the Grenadines", "Samoa", "Seychelles", "Sierra Leone", "Singapore", "Solomon Islands", "South Africa", "Sri Lanka", "Tanzania", "Togo", "Tonga", "Trinidad and Tobago", "Tuvalu", "Uganda", "United Kingdom", "Vanuatu", "Zambia"]
+    },
+    {
+      "code": "PIF", "name": "Pacific Islands Forum", "kind": "regional",
+      "members": ["Cook Islands", "Fiji", "French Polynesia", "Kiribati", "Marshall Islands", "Micronesia, Federated States of", "Nauru", "New Caledonia", "New Zealand", "Niue", "Palau", "Papua New Guinea", "Samoa", "Solomon Islands", "Tonga", "Tuvalu", "Vanuatu"]
+    },
+    {
+      "code": "EAS", "name": "East Asia Summit", "kind": "regional",
+      "members": ["Brunei Darussalam", "Cambodia", "China", "India", "Indonesia", "Japan", "Korea, Republic of", "Laos", "Malaysia", "Myanmar", "New Zealand", "Philippines", "Russia", "Singapore", "Thailand", "United States of America", "Vietnam"]
+    },
+    {
+      "code": "Quad", "name": "Quadrilateral Security Dialogue", "kind": "security",
+      "members": ["India", "Japan", "United States of America"]
+    },
+    {
+      "code": "AUKUS", "name": "Australia-United Kingdom-United States security partnership", "kind": "security",
+      "members": ["United Kingdom", "United States of America"]
+    },
+    {
+      "code": "FVEY", "name": "Five Eyes intelligence alliance", "kind": "security",
+      "members": ["Canada", "New Zealand", "United Kingdom", "United States of America"]
+    },
+    {
+      "code": "IPEF", "name": "Indo-Pacific Economic Framework", "kind": "economic",
+      "members": ["Brunei Darussalam", "Fiji", "India", "Indonesia", "Japan", "Korea, Republic of", "Malaysia", "New Zealand", "Philippines", "Singapore", "Thailand", "United States of America", "Vietnam"]
+    },
+    { "code": "UN", "name": "United Nations", "kind": "universal", "members": null },
+    { "code": "WTO", "name": "World Trade Organization", "kind": "universal", "members": null },
+    { "code": "IMF", "name": "International Monetary Fund", "kind": "universal", "members": null },
+    { "code": "WB", "name": "World Bank Group", "kind": "universal", "members": null },
+    { "code": "WHO", "name": "World Health Organization", "kind": "universal", "members": null }
+  ]
+}

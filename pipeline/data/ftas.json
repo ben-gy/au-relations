@@ -1,0 +1,26 @@
+{
+  "note": "Curated from DFAT trade agreement pages (dfat.gov.au/trade/agreements). Partner names use ATD country naming. Reviewed 2026-07.",
+  "agreements": [
+    { "code": "ANZCERTA", "name": "Australia-New Zealand Closer Economic Relations Trade Agreement", "partners": ["New Zealand"], "status": "in-force", "since": 1983 },
+    { "code": "SAFTA", "name": "Singapore-Australia Free Trade Agreement", "partners": ["Singapore"], "status": "in-force", "since": 2003 },
+    { "code": "AUSFTA", "name": "Australia-United States Free Trade Agreement", "partners": ["United States of America"], "status": "in-force", "since": 2005 },
+    { "code": "TAFTA", "name": "Thailand-Australia Free Trade Agreement", "partners": ["Thailand"], "status": "in-force", "since": 2005 },
+    { "code": "ACLFTA", "name": "Australia-Chile Free Trade Agreement", "partners": ["Chile"], "status": "in-force", "since": 2009 },
+    { "code": "AANZFTA", "name": "ASEAN-Australia-New Zealand Free Trade Agreement", "partners": ["Brunei Darussalam", "Cambodia", "Indonesia", "Laos", "Malaysia", "Myanmar", "New Zealand", "Philippines", "Singapore", "Thailand", "Vietnam"], "status": "in-force", "since": 2010 },
+    { "code": "MAFTA", "name": "Malaysia-Australia Free Trade Agreement", "partners": ["Malaysia"], "status": "in-force", "since": 2013 },
+    { "code": "KAFTA", "name": "Korea-Australia Free Trade Agreement", "partners": ["Korea, Republic of"], "status": "in-force", "since": 2014 },
+    { "code": "JAEPA", "name": "Japan-Australia Economic Partnership Agreement", "partners": ["Japan"], "status": "in-force", "since": 2015 },
+    { "code": "ChAFTA", "name": "China-Australia Free Trade Agreement", "partners": ["China"], "status": "in-force", "since": 2015 },
+    { "code": "CPTPP", "name": "Comprehensive and Progressive Agreement for Trans-Pacific Partnership", "partners": ["Brunei Darussalam", "Canada", "Chile", "Japan", "Malaysia", "Mexico", "New Zealand", "Peru", "Singapore", "United Kingdom", "Vietnam"], "status": "in-force", "since": 2018 },
+    { "code": "HKFTA", "name": "Australia-Hong Kong Free Trade Agreement", "partners": ["Hong Kong"], "status": "in-force", "since": 2020 },
+    { "code": "PAFTA", "name": "Peru-Australia Free Trade Agreement", "partners": ["Peru"], "status": "in-force", "since": 2020 },
+    { "code": "IA-CEPA", "name": "Indonesia-Australia Comprehensive Economic Partnership Agreement", "partners": ["Indonesia"], "status": "in-force", "since": 2020 },
+    { "code": "PACER Plus", "name": "Pacific Agreement on Closer Economic Relations Plus", "partners": ["Cook Islands", "Kiribati", "New Zealand", "Niue", "Samoa", "Solomon Islands", "Tonga", "Tuvalu", "Vanuatu"], "status": "in-force", "since": 2020 },
+    { "code": "RCEP", "name": "Regional Comprehensive Economic Partnership", "partners": ["Brunei Darussalam", "Cambodia", "China", "Indonesia", "Japan", "Korea, Republic of", "Laos", "Malaysia", "Myanmar", "New Zealand", "Philippines", "Singapore", "Thailand", "Vietnam"], "status": "in-force", "since": 2022 },
+    { "code": "AI-ECTA", "name": "Australia-India Economic Cooperation and Trade Agreement", "partners": ["India"], "status": "in-force", "since": 2022 },
+    { "code": "A-UKFTA", "name": "Australia-United Kingdom Free Trade Agreement", "partners": ["United Kingdom"], "status": "in-force", "since": 2023 },
+    { "code": "AUAE-CEPA", "name": "Australia-United Arab Emirates Comprehensive Economic Partnership Agreement", "partners": ["United Arab Emirates"], "status": "in-force", "since": 2025 },
+    { "code": "A-EUFTA", "name": "Australia-European Union Free Trade Agreement", "partners": ["European Union"], "status": "under-negotiation", "since": null },
+    { "code": "AI-CECA", "name": "Australia-India Comprehensive Economic Cooperation Agreement", "partners": ["India"], "status": "under-negotiation", "since": null }
+  ]
+}
