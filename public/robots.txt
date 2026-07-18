@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://au-relations.benrichardson.dev/sitemap.xml
