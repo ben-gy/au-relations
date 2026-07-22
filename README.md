@@ -74,6 +74,17 @@ npm run preview
 
 A GitHub Actions workflow re-runs the pipeline quarterly (the sources publish irregularly) and commits any changes; the site itself is a static Vite build that loads the JSON at runtime — country aggregates up front, the full treaty corpus lazily.
 
-## License
+## license
 
-MIT
+[GNU Affero General Public License v3.0 or later](./LICENSE), with an attribution
+requirement added under section 7(b) — see
+[ADDITIONAL-TERMS.md](./ADDITIONAL-TERMS.md).
+
+In short: you may run, modify, redistribute and even sell this, but if you
+distribute it — or run a modified version where other people can reach it — you
+have to publish your source under the same licence and keep the attribution. A
+separate commercial licence without those obligations is available on request:
+<hi@ben.gy>.
+
+Third-party components keep their own licences — see
+[THIRD-PARTY-NOTICES.md](./THIRD-PARTY-NOTICES.md).

@@ -1,3 +1,6 @@
+// SPDX-License-Identifier: AGPL-3.0-or-later
+// Copyright (C) 2026 Ben Richardson — https://benrichardson.dev
+// Additional terms under AGPL-3.0 section 7(b) apply; see ADDITIONAL-TERMS.md.
 import type { AppData, Country, Treaty } from './types';
 import { loadTreaties } from './data';
 import { categoryColor, decadeLabel, esc, flagEmoji, formatDate, formatNumber, slugify } from './utils';
